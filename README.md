@@ -29,7 +29,7 @@ R source code: https://www.kaggle.com/coolman/different-clustering-techniques-r
 * Decision tree
 * RandomForest - Ensemble method
 * XGBoost
-* SVM (Support Vector Machines) Classifier
+* SVM (Support Vector Machine) Classifier
 * Nearest Neighbors Classifier
 * SGD (Stochastic Gradient Descent) classifier 
 * Gaussian Naive Bayes
