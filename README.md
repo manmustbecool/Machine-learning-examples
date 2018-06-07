@@ -4,7 +4,7 @@ some simple machine learning examples
 
 # Clustering
 
-7 different clustering algorithms with Iris dataset
+7 different clustering algorithms with **Iris dataset**
 
 * K-Means
 * Fuzzy C-Means
@@ -18,7 +18,7 @@ R source code: https://www.kaggle.com/coolman/different-clustering-techniques-r
 
 # Classification
 
-6 different classification algorithms with Iris dataset
+6 different classification algorithms with **Iris dataset**
 
 * Decision tree
 * RandomForest
