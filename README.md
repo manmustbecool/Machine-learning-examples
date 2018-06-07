@@ -1,6 +1,7 @@
 # Machine-learning-examples
 
-Some simple machine learning examples 
+Some simple machine learning examples. 
+Default parameters are used for all algorithms
 
 **Iris dataset**
 
@@ -23,14 +24,16 @@ R source code: https://www.kaggle.com/coolman/different-clustering-techniques-r
 
 # Classification
 
-6 different classification algorithms with **Iris dataset**
+8 different classification algorithms with **Iris dataset**
 
 * Decision tree
-* RandomForest
+* RandomForest - Ensemble method
 * XGBoost
-* SVM Classifier
-* SGD Classifier
+* SVM (Support Vector Machines) Classifier
+* Nearest Neighbors Classifier
+* SGD (Stochastic Gradient Descent) classifier 
 * Gaussian Naive Bayes
+* MLP (Multi-layer Perceptron) Neural network
 
 Python Source code: https://www.kaggle.com/coolman/different-classification-techniques-python
 
