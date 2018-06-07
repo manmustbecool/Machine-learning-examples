@@ -1,6 +1,6 @@
 # Machine-learning-examples
 
-some simple machine learning examples 
+Some simple machine learning examples 
 
 # Clustering
 
