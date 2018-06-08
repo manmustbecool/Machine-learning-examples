@@ -41,5 +41,9 @@ Python Source code: https://www.kaggle.com/coolman/different-classification-tech
 
 ## Anomaly detection
 
+1 different anomaly detection algorithms with **Iris dataset**
+
+* DBSCAN
+
 Python Source code: https://www.kaggle.com/coolman/different-anomaly-detection-techniques-python
 
