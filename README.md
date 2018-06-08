@@ -3,12 +3,14 @@
 Some simple machine learning examples. 
 Default parameters are used for all algorithms
 
-**Iris dataset**
+
+
+#Iris dataset
 
 The dataset contains a set of 150 records under 5 attributes - Petal Length , Petal Width , Sepal Length , Sepal width and Class. https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 
-# Clustering
+## Clustering
 
 7 different clustering algorithms with **Iris dataset**
 
@@ -22,7 +24,7 @@ The dataset contains a set of 150 records under 5 attributes - Petal Length , Pe
 
 R source code: https://www.kaggle.com/coolman/different-clustering-techniques-r
 
-# Classification
+## Classification
 
 8 different classification algorithms with **Iris dataset**
 
@@ -36,4 +38,8 @@ R source code: https://www.kaggle.com/coolman/different-clustering-techniques-r
 * MLP (Multi-layer Perceptron) Neural network
 
 Python Source code: https://www.kaggle.com/coolman/different-classification-techniques-python
+
+## Anomaly detection
+
+Python Source code: https://www.kaggle.com/coolman/different-anomaly-detection-techniques-python
 
