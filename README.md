@@ -7,7 +7,9 @@ Default parameters are used for all algorithms
 
 # Iris dataset
 
-The dataset contains a set of 150 records under 5 attributes - Petal Length , Petal Width , Sepal Length , Sepal width and Class. https://en.wikipedia.org/wiki/Iris_flower_data_set
+The dataset contains a set of 150 records under 5 attributes - Petal Length , Petal Width , Sepal Length , Sepal width and Class.
+
+https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 
 ## Clustering
@@ -41,9 +43,11 @@ Python Source code: https://www.kaggle.com/coolman/different-classification-tech
 
 ## Anomaly detection
 
-1 different anomaly detection algorithms with **Iris dataset**
+3 different anomaly detection algorithms with **Iris dataset**
 
 * DBSCAN
+* Isolation Forest 
+* LocalOutlierFactor
 
 Python Source code: https://www.kaggle.com/coolman/different-anomaly-detection-techniques-python
 
